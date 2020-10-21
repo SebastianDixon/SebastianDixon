@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 <table>
-  <thead>
-    <tr>
-      <th><h3 style="text-align: left;">Find me</h3></th>
-      <th><h3 style="text-align: left;">Join me</h3></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td valign="bottom" width="50%">
