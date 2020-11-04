@@ -8,7 +8,7 @@
         <li>🌱 I’m currently learning <strong>C++</strong></li>
         <li>👯 I’m looking to collaborate on <strong>open source</strong>.</li>
         <li>💬 Ask me about <strong>Python</strong>.</li>
-        <li>🖥 LinkedIn: <a href="https://www.linkedin.com/in/sebdixon/">https://www.linkedin.com/in/sebdixon/</a></li>
+        <li>🖥 <a href="https://www.linkedin.com/in/sebdixon/">LinkedIn</a></li>
       </td>
     </tr>
   </tbody>
