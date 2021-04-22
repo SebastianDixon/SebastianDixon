@@ -4,7 +4,6 @@
         <li>Working on <strong>C++</strong>.</li>
         <li>Learning <strong>Quantitative Analysis</strong></li>
         <li>Ask me on <strong>Python</strong>.</li>
-        <li><a href="https://www.linkedin.com/in/sebdixon/">LinkedIn</a></li>
       </td>
     </tr>
   </tbody>
