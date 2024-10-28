@@ -1,7 +1,7 @@
 ### // **About Me**
 ```haskell
 
-Occupation: "Software Developer"
+Occupation: "Data Engineer"
 Degree: "BSc Data Science from The University of Exeter"
 Aspirations: ["Quantitative Research", "Artificial Intelligence", "Data Science", "Machine Learning"]
 Location: "London - United Kingdom" 
